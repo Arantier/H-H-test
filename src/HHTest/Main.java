@@ -8,6 +8,8 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        //Можно было бы решить задачу проще...
+        //Но надо же мне показать мою, пусть и небольшую, но квалификацию?
         int[] InputArray;
             try {
                 //Предположим, что массив чисел огромен
